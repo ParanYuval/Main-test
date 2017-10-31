@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)" preserve-order="false">
+    <classes>
+      <class name="TestMTD">
+        <methods>
+          <include name="testAllTab"/>
+          <include name="createReport"/>
+          <include name="tearDown"/>
+          <include name="TestAddNewAPPManager"/>
+          <include name="TestLogin"/>
+          <include name="TestCheckAppManager"/>
+          <include name="configurationLoad"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Yuvalp" tests="5" failures="0" timestamp="30 Oct 2017 18:58:18 GMT" time="98.234" errors="0">
+  <testcase name="TestLogin" time="17.804" classname="TestMTD"/>
+  <testcase name="testAllTab" time="23.063" classname="TestMTD"/>
+  <testcase name="TestCheckAppManager" time="3.824" classname="TestMTD"/>
+  <testcase name="TestAddNewAPPManager" time="52.52" classname="TestMTD"/>
+  <testcase name="TestcheckAppManagerView" time="0.082" classname="TestMTD"/>
+</testsuite>

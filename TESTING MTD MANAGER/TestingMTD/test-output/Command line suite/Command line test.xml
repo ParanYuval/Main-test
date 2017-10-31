@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Yuvalp" tests="1" failures="1" timestamp="7 Oct 2017 14:35:25 GMT" time="0.699" errors="0">
+  <testcase name="Main" time="0.002" classname="TestMTD">
+    <failure type="java.lang.NullPointerException">
+      <![CDATA[java.lang.NullPointerException
+	at java.util.Properties$LineReader.readLine(Properties.java:434)
+	at java.util.Properties.load0(Properties.java:353)
+	at java.util.Properties.load(Properties.java:341)
+	at ReadFromConfig.<init>(ReadFromConfig.java:19)
+	at TestMTD.configurationLoad(TestMTD.java:35)
+	at TestMTD.Main(TestMTD.java:514)
+	at Program.main(Program.java:14)
+... Removed 22 stack frames]]>
+    </failure>
+  </testcase>
+</testsuite>
